@@ -1,0 +1,5 @@
+npm-debug.log
+events-test.json
+*sftp-config.json
+node_modules
+coords.txt
