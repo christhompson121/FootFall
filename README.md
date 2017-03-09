@@ -4,7 +4,7 @@ For a detailed writeup of this Hackathon project please see the [DevPost submiss
 
 # Who made it?
 
-[Chris Thompson](https://github.com/christhompson121), [Tzen Szen Toh](https://github.com/szen95) and myself.
+[Chris Thompson](https://github.com/christhompson121), [Tzen Szen Toh](https://github.com/szen95) and [David Moodie](https://github.com/davejm).
 
 # What is it?
 
